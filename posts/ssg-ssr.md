@@ -1,5 +1,5 @@
 ---
-title: 'When to Use Static Generation v.s. Server-side Rendering'
+title: 'Test of publishing preview URL when pull requested'
 date: '2020-01-02'
 ---
 
